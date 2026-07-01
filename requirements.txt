@@ -1,0 +1,12 @@
+openai
+mcp
+fastmcp
+streamlit
+fastapi
+uvicorn
+python-dotenv
+rich
+pydantic>=2.0
+httpx
+langgraph
+groq
